@@ -1,6 +1,8 @@
 // BEGIN_INTERNALS
 /*
-MAP_ICON_TYPE: 0
 AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: hello_world.dm
+FILE: hello_world.dm
 */
 // END_INTERNALS
